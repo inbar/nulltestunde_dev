@@ -1217,3 +1217,7 @@ body.is-touch .wrapper.style3 {
   margin-top: 1em;
   width: 100%;
 }
+
+.bottom-cover {
+  height: 13em;
+}
